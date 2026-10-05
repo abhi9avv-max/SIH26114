@@ -1,0 +1,7 @@
+{
+  "name": "FORMA URBAN LAB — Smart City Site Planning",
+  "description": "Smart City Site Planning and Architectural Masterplan using Autodesk Forma Site Design and Autodesk Revit for SIH 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
